@@ -80,23 +80,24 @@ a {
 }
 
 #nav-2 {
-  background-color: #2bb673;
+  background-color: rgb(241, 241, 108);
   height: auto;
   width: 100%;
 }
 
-#nav-2 > div {
+#nav-2>div {
   width: 74%;
   margin: auto;
   display: flex;
   justify-content: space-between;
 }
 
-#nav-2 > div a {
+#nav-2>div a {
   font-size: 18px;
   line-height: 40px;
   padding-right: 20px;
   padding-left: 20px;
+  color: black;
 }
 
 #signup {
@@ -104,12 +105,15 @@ a {
   padding: 5px;
   width: 150px;
 }
+
 #signup {
   cursor: pointer;
 }
+
 #nav1-child-2 {
   margin-top: 0px;
 }
+
 #nav1-child-2 img {
   width: 40px;
 }

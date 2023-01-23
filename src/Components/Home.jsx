@@ -247,7 +247,7 @@ const Home = () => {
         </div>
       </div>
       <div id="container3">
-        <div>Introducing The World's 1st Meat-Free Lifestyle Platform</div>
+        <div>Introducing The World's 1st  Lifestyle Platform</div>
         <div id="con3-img">
           <div>Brought to you by</div>
           <img

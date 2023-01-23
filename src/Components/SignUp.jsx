@@ -91,10 +91,10 @@ function SignUp() {
             </Link>
           </div>
           <div style={{ width: "200px", maxWidth: "200px" }} className="logoa">
-            <p style={{ fontSize: "22px" }}>Why KindMeal?</p>
+            <p style={{ fontSize: "22px" }}>Why Basspro?</p>
             <ul>
               <li>
-                <span>Exclusive meat-free deals</span>
+                <span>Exclusive  deals</span>
               </li>
               <li>
                 <span>Share yummy food moments</span>
@@ -116,7 +116,7 @@ function SignUp() {
               </li>
             </ul>
             <Link href="/#" className="link-here">
-              More about KindMeal »
+              More about Basspro »
             </Link>
           </div>
         </div>
@@ -134,7 +134,7 @@ function SignUp() {
             payment, booking or printing is required.
           </p>
           <p style={{ marginTop: "10px" }}>
-            KindMeal is a fun, exciting and cool new way for you to show your
+            Basspro is a fun, exciting and cool new way for you to show your
             compassion towards animals. We collaborate with kind restaurants and
             cafes across the nation to bring you delicious meat-free foods that
             will not only help save precious animal lives, but improve your

@@ -20,66 +20,66 @@ const Footer = () => {
         />
       </div> */}
 
-      <div id="footer">
+      <div id="footer" style={{ backgroundColor: 'rgb(241, 241, 108)', color: 'black' }}>
         <div>
           <div>
-            <div className="fot-head">General</div>
-            <a href="/#">Home</a>
-            <Link to="/signup">Sign Up</Link>
-            <a href="/#">Businesses / Restaurateurs</a>
-            <a href="/#">Advertising</a>
-            <Link to="about">About KindMeal.my</Link>
-            <Link to="/help">Help & FAQ</Link>
-            <a href="/#">Terms & Conditions</a>
-            <a href="/#">Inspiring Partners</a>
-            <a href="/#">Lifestyle Ambassadors</a>
-            <a href="/#">Jobs & Careers</a>
-            <Link to="/contacts">Contact Us</Link>
+            <div className="fot-head" >General</div>
+            <a style={{ color: 'black' }} href="/#">Home</a>
+            <Link style={{ color: 'black' }} to="/signup">Sign Up</Link>
+            <a style={{ color: 'black' }} href="/#">Businesses / Restaurateurs</a>
+            <a style={{ color: 'black' }} href="/#">Advertising</a>
+            <Link style={{ color: 'black' }} to="about">About Basspro.my</Link>
+            <Link style={{ color: 'black' }} to="/help">Help & FAQ</Link>
+            <a style={{ color: 'black' }} href="/#">Terms & Conditions</a>
+            <a style={{ color: 'black' }} href="/#">Inspiring Partners</a>
+            <a style={{ color: 'black' }} href="/#">Lifestyle Ambassadors</a>
+            <a style={{ color: 'black' }} href="/#">Jobs & Careers</a>
+            <Link style={{ color: 'black' }} to="/contacts">Contact Us</Link>
           </div>
           <div>
             <div className="fot-head">Features</div>
-            <Link to="/mealdeals">Meat-Free Deals</Link>
-            <a href="/#">Tasty Menus</a>
-            <Link to="/kindmoments">Kind Moments</Link>
-            <a href="/#">Meat-Free Recipes</a>
-            <Link to="/hotpicks">Member Recommendations</Link>
-            <a href="/#">Featured Restaurants</a>
-            <Link to="/directory">Vegetarian & Vegan Directory</Link>
-            <a href="/#">Food Map</a>
-            <a href="/#">Become A Superhero</a>
-            <Link to="/articles">Vegan News & Vegetarian Articles</Link>
-            <a href="/#">Latest Comments</a>
+            <Link style={{ color: 'black' }} to="/mealdeals">Meat-Free Deals</Link>
+            <a style={{ color: 'black' }} href="/#">Tasty Menus</a>
+            <Link style={{ color: 'black' }} to="/kindmoments">Kind Moments</Link>
+            <a style={{ color: 'black' }} href="/#">Meat-Free Recipes</a>
+            <Link style={{ color: 'black' }} to="/hotpicks">Member Recommendations</Link>
+            <a style={{ color: 'black' }} href="/#">Featured Restaurants</a>
+            <Link style={{ color: 'black' }} to="/directory">Vegetarian & Vegan Directory</Link>
+            <a style={{ color: 'black' }} href="/#">Food Map</a>
+            <a style={{ color: 'black' }} href="/#">Become A Superhero</a>
+            <Link style={{ color: 'black' }} to="/articles">Vegan News & Vegetarian Articles</Link>
+            <a style={{ color: 'black' }} href="/#">Latest Comments</a>
           </div>
           <div>
             <div className="fot-head">Social Media</div>
-            <a href="/#">Basspro Widget</a>
-            <a href="https://www.facebook.com/KindMeal.my">Facebook</a>
-            <a href="https://twitter.com/KindMeal">Twitter</a>
-            <a href="https://www.instagram.com/KindMeal.my/">Instagram</a>
+            <a style={{ color: 'black' }} href="/#">Basspro Widget</a>
+            <a style={{ color: 'black' }} href="https://www.facebook.com/KindMeal.my">Facebook</a>
+            <a style={{ color: 'black' }} href="https://twitter.com/KindMeal">Twitter</a>
+            <a style={{ color: 'black' }} href="https://www.instagram.com/KindMeal.my/">Instagram</a>
           </div>
           <div>
             <div className="fot-head">Mobile</div>
-            <a href="/#">iPhone & iPod App</a>
-            <a href="/#">Android App</a>
+            <a style={{ color: 'black' }} href="/#">iPhone & iPod App</a>
+            <a style={{ color: 'black' }} href="/#">Android App</a>
             <br />
             <div className="fot-head">Exciting Promos</div>
-            <a href="/#">Gadhimai: Ending Mass Slaughter</a>
-            <a href="/#">Free Meals</a>
-            <a href="/#">Food Bloggers</a>
-            <a href="/#">Uber CHIRP</a>
-            <a href="/#">Jane Goodall Contest</a>
-            <a href="/#">Win Digi iPhone 6</a>
-            <a href="/#">Feed The Poor</a>
-            <a href="/#">Win Superhero Gifts</a>
-            <a href="/#">Win an iPad Mini 3</a>
+            <a style={{ color: 'black' }} href="/#">Gadhimai: Ending Mass Slaughter</a>
+            <a style={{ color: 'black' }} href="/#">Free Meals</a>
+            <a style={{ color: 'black' }} href="/#">Food Bloggers</a>
+            <a style={{ color: 'black' }} href="/#">Uber CHIRP</a>
+            <a style={{ color: 'black' }} href="/#">Jane Goodall Contest</a>
+            <a style={{ color: 'black' }} href="/#">Win Digi iPhone 6</a>
+            <a style={{ color: 'black' }} href="/#">Feed The Poor</a>
+            <a style={{ color: 'black' }} href="/#">Win Superhero Gifts</a>
+            <a style={{ color: 'black' }} href="/#">Win an iPad Mini 3</a>
           </div>
           <div>
             <div className="fot-head">PetFinder.my</div>
-            <a href="/#">Adopt A Pet</a>
-            <a href="/#">Smartphone Apps</a>
-            <a href="/#">WAGazine</a>
-            <a href="/#">Discussion Forum</a>
-            <a href="/#">Medical Fund</a>
+            <a style={{ color: 'black' }} href="/#">Adopt A Pet</a>
+            <a style={{ color: 'black' }} href="/#">Smartphone Apps</a>
+            <a style={{ color: 'black' }} href="/#">WAGazine</a>
+            <a style={{ color: 'black' }} href="/#">Discussion Forum</a>
+            <a style={{ color: 'black' }} href="/#">Medical Fund</a>
           </div>
         </div>
         <div id="fot-para">

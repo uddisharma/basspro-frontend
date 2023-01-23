@@ -29,7 +29,7 @@ const Help = () => {
           </div>
           <div className="child-1-inner">
             <img src="https://www.kindmeal.my/images/about_us.png" alt="/#" />
-            <Link to="/about">About KindMeal</Link>
+            <Link to="/about">About Basspro</Link>
           </div>
           <div className="child-1-inner">
             <img src="https://www.kindmeal.my/images/about_hero.png" alt="/#" />
@@ -44,16 +44,16 @@ const Help = () => {
           <div id="child-2-inner-1">
             <div id="child-2-inner-1-heading">General Help</div>
             <div className="child-2-inner-2-para">
-              Wish to find out more on how to use KindMeal? Please check out our
+              Wish to find out more on how to use Basspro? Please check out our
               frequently-asked questions below. If you are unable to find your
               answer here, please <a href="contactUs.html">contact us</a>
               for further assistance.
             </div>
           </div>
           <div id="child-2-inner-2">
-            <div className="child-2-inner-2-header">What is KindMeal?</div>
+            <div className="child-2-inner-2-header">What is Basspro?</div>
             <div className="child-2-inner-2-para ">
-              KindMeal is Malaysia's (and possibly the world's!) pioneering
+              basspro is Malaysia's (and possibly the world's!) pioneering
               meat-free lifestyle platform. We provide an effective platform to
               promote compassionate dining in a fun and effective way, that
               would allow you to save precious animal lives, improve your
@@ -62,9 +62,9 @@ const Help = () => {
             </div>
             <br />
 
-            <div className="child-2-inner-2-header">What is Meat-Free?</div>
+            <div className="child-2-inner-2-header">What are the indrigient use?</div>
             <div className="child-2-inner-2-para ">
-              Meat-free means that the food does not contain any meat, or
+              means that the food does not contain any , or
               ingredients derived from meat. However, it may contain some
               elements that people of certain diet do not consume, such as eggs,
               dairy / milk, or alcohol. Please refer to the details within each
@@ -72,7 +72,7 @@ const Help = () => {
             </div>
             <br />
             <div className="child-2-inner-2-header">
-              How do I sign up to KindMeal? Is it free?
+              How do I sign up to Basspro? Is it free?
             </div>
             <div className="child-2-inner-2-para ">
               Yes, it is absolutely free. To join our community of food lovers
@@ -97,7 +97,7 @@ const Help = () => {
               How do KindMeal deals work?
             </div>
             <div className="child-2-inner-2-para ">
-              Restaurants create attractive deals within KindMeal, which you can
+              Restaurants create attractive deals within Basspro, which you can
               obtain coupons for. Our coupons differ from other conventional
               deal sites in that you <b>do not need</b> to make any upfront
               payment at KindMeal, and you can easily present our LiveCoupon via
