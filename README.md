@@ -19,7 +19,6 @@ Happy Cooking!
 These are some of the screenshots of website
 
 
-![Screenshot (66)](https://user-images.githubusercontent.com/112716576/213978997-70e535ca-f948-4e7b-a166-4e6c87ad8ddc.png)
 
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/112716576/213978958-8132cc79-1bec-43c5-8109-33b715142bcb.png)
